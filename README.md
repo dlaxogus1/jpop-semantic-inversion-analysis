@@ -2,27 +2,49 @@
 
 ## Overview
 
-This project analyzes emotional inversion
-(Semantic Inversion) in J-Pop lyrics.
+This project explores emotional expression in J-Pop lyrics through the concept of **Semantic Inversion**.
 
-## Research Question
+While analyzing various J-Pop songs, I observed that the literal meaning of words often differs from the emotion that the speaker is trying to convey. Love is used to express sadness, closeness is used to describe emotional distance, happiness is portrayed as something fragile, and loss is often expressed through beautiful imagery.
 
-Why do J-Pop lyrics use love to express sadness?
+This project defines this phenomenon as **Semantic Inversion** and analyzes its patterns in J-Pop lyrics.
 
-## Topics
+## Research Motivation
+
+The project began after encountering the expression **愛し** being read as **カナシ** in the song **サクラキミワタシ** by **tuki.**
+
+This observation led to a broader investigation of how J-Pop lyrics transform emotions through language and imagery.
+
+## Research Topics
 
 - Love as sadness
-- Distance as unattainability
+- Closeness as emotional distance
 - Happiness as incompleteness
 - Loss as beauty
 
 ## Methods
 
 - Lyric analysis
-- Manual scoring
-- R visualization
+- Manual emotional scoring
+- Semantic categorization
+- R visualization using `ggplot2`
 
-## Result
+## Results
 
-Many lyrics showed high surface positivity
-while containing strong underlying sadness.
+Many lyrics showed relatively high **Surface Positivity** while simultaneously containing strong **Underlying Sadness**.
+
+The analysis suggests that J-Pop speakers often reinterpret difficult emotions through opposite words, symbols, and imagery. This may function as a way of accepting and coping with painful emotions.
+
+## Repository Contents
+
+```text
+report/
+  J-Pop_Semantic_Inversion_Portfolio.pdf
+
+data/
+  J-Pop_semantic_inversion.csv
+
+R/
+  semantic_inversion_analysis.R
+
+images/
+  semantic_inversion_plot.png
