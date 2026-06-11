@@ -1,0 +1,49 @@
+﻿song,artist,line_id,lyric,Surface Positivity,Underlying Sadness,Inversion Type,Underlying Affection
+サクラキミワタシ(벚꽃 너 나),tuki.,14,恋してしまったの,0.75,0.65,nostalgic_love,0.85
+サクラキミワタシ(벚꽃 너 나),tuki.,15,桜　君　愛(かなし),0.95,0.9,symbolic_loss,0.9
+花時計(꽃시계),shiho,53,最高の朝なんて来ないから,0.65,0.85,denied_hope,0.4
+花時計(꽃시계),shiho,54,僕らは今日も歩いてゆける,0.75,0.4,persistence_after_loss,0.45
+花時計(꽃시계),shiho,9,途絶えてばっかの幸せも,0.55,0.85,positive_loss,0.65
+アイモライモ(아이모라이모),tuki.,20,二人繋いだラインも,0.85,0.45,fragile_connection,0.75
+アイモライモ(아이모라이모),tuki.,21,どちらかが切れば終わるから,0.3,0.9,connection_anxiety,0.7
+アイモライモ(아이모라이모),tuki.,22,赤い糸解かないで,0.9,0.75,fearful_attachment,0.9
+なんでもないよ(아무것도 아니야),マカロニえんぴつ,4,とびっきりの普通,0.75,0.35,ordinary_affection,0.85
+なんでもないよ(아무것도 아니야),マカロニえんぴつ,11,ただ僕より先に死なないでほしい,0.8,0.95,fear_of_loss,0.95
+なんでもないよ(아무것도 아니야),マカロニえんぴつ,13,「何でもないよ」,0.15,0.85,suppressed_emotion,0.65
+晩餐歌(만찬가),tuki.,1,君を泣かすから,0.45,0.9,self_negating_love,0.65
+晩餐歌(만찬가),tuki.,2,一緒には居れないな,0.3,0.95,sacrificial_separation,0.75
+晩餐歌(만찬가),tuki.,7,君以外会いたくないんだよね,0.9,0.7,dependent_affection,0.95
+晩餐歌(만찬가),tuki.,10,愛の存在証明,0.85,0.8,insecure_love,0.85
+晩餐歌(만찬가),tuki.,33,涙のスパイス,0.55,0.9,painful_beauty,0.6
+晩餐歌(만찬가),tuki.,15,最高のフルコース,0.95,0.55,excessive_affection,0.9
+Arcana,myuk,28,アルバムで見れば綺麗だった,0.9,0.85,nostalgic_reframing,0.45
+Arcana,myuk,29~30,綺麗なものと嫌なもの全てを ここに詰め込んだ,0.85,0.75,emotional_coexistence,0.5
+Arcana,myuk,34,終わりは愛しいね,0.85,0.9,affectionate_loss,0.75
+Arcana,myuk,26,死に様にまた憧れた,0.45,0.9,romanticized_death,0.35
+香水(향수),Eito,9,別に君を求めてないけど,0.2,0.85,emotional_denial,0.75
+香水(향수),Eito,19,悲しくないよ 悲しくないよ,0.1,0.95,negative_semantic_inversion,0.6
+香水(향수),Eito,35,戻りたいとかは思わないけど,0.25,0.85,emotional_denial,0.8
+香水(향수),Eito,11~12,君のドルチェ＆ガッバーナの その香水のせいだよ,0.75,0.8,sensory_nostalgia,0.9
+シーソー(시소),tuki.,4,君は重くなって沈むんだ,0.45,0.9,burdensome_affection,0.75
+シーソー(시소),tuki.,17,君が近づいてしまえば,0.7,0.65,unstable_affection,0.8
+シーソー(시소),tuki.,18,またバランスが崩れちゃうんだ,0.3,0.9,emotional_imbalance,0.65
+シーソー(시소),tuki.,15,自分のことがわからない,0.15,0.85,identity_loss,0.45
+シーソー(시소),tuki.,19,自分の事ちゃんと愛してあげなきゃね,0.8,0.55,self_love_requirement,0.75
+花泡沫(꽃거품),Rokudenashi,7,「私は居なくても問題ない」,0.05,0.98,self_erasure,0.1
+花泡沫(꽃거품),Rokudenashi,21,過去は美し,0.85,0.7,nostalgic_reframing,0.55
+花泡沫(꽃거품),Rokudenashi,22,冬のような心に咲いた優しい花火,0.8,0.75,warmth_in_coldness,0.7
+花泡沫(꽃거품),Rokudenashi,9,消えたがる朝夏夜,0.55,0.95,beautiful_disappearance,0.2
+ヒロイン(히로인),back number,1~2,"君の毎日に
+僕は似合わないかな",0.45,0.9,self_unworthiness,0.75
+ヒロイン(히로인),back number,7,雪が綺麗と笑うのは君がいい,0.9,0.75,lonely_romanticism,0.9
+ヒロイン(히로인),back number,16~17,"打ちかけのまま
+ポケットに入れた",0.25,0.85,unsent_affection,0.85
+ヒロイン(히로인),back number,23~24,"君から見えてる景色に
+ただ怯えているんだ",0.35,0.92,fear_of_perception,0.75
+アルビレオ(알비레오),Rokudenashi,1,側にいても離れたまま,0.45,0.95,emotional_distance,0.85
+アルビレオ(알비레오),Rokudenashi,10,苦しくなるほどに美しいな,0.9,0.9,painful_beauty,0.9
+アルビレオ(알비레오),Rokudenashi,13,愛だなんて呼びたくない,0.35,0.25,transcendent_affection,0.95
+アルビレオ(알비레오),Rokudenashi,28~29,"明日を生きる言い訳を
+愛だなんて呼んでみたい",0.85,0.8,love_as_survival,0.9
+アルビレオ(알비레오),Rokudenashi,35,誰より近く恋してた,0.85,0.75,impossible_proximity,1
+アルビレオ(알비레오),Rokudenashi,36,届くわけもないのにさ,0.15,0.95,hopeless_affection,0.95
