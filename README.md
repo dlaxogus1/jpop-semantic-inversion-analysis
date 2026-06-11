@@ -1,50 +1,48 @@
-# J-Pop Semantic Inversion Analysis
+# J-Pop 가사 속 감정 반전(Semantic Inversion) 분석
 
-## Overview
+## 프로젝트 소개
 
-This project explores emotional expression in J-Pop lyrics through the concept of **Semantic Inversion**.
+본 프로젝트는 J-Pop 가사에 나타나는 감정 표현 방식을 분석한 프로젝트이다.
 
-While analyzing various J-Pop songs, I observed that the literal meaning of words often differs from the emotion that the speaker is trying to convey. Love is used to express sadness, closeness is used to describe emotional distance, happiness is portrayed as something fragile, and loss is often expressed through beautiful imagery.
+가사를 분석하는 과정에서 단어가 가진 원래 의미와 화자가 전달하고자 하는 실제 감정이 서로 다르게 나타나는 경우가 많다는 것을 발견하였다.
 
-This project defines this phenomenon as **Semantic Inversion** and analyzes its patterns in J-Pop lyrics.
+예를 들어 사랑은 슬픔을, 가까움은 거리감을, 행복은 행복의 부재를, 상실은 아름다움을 설명하는 데 사용되고 있었다.
 
-## Research Motivation
+본 프로젝트에서는 이러한 표현 방식을 감정 반전(Semantic Inversion)이라고 정의하고 분석하였다.
 
-The project began after encountering the expression **愛し** being read as **カナシ** in the song **サクラキミワタシ** by **tuki.**
+## 연구 동기
 
-This observation led to a broader investigation of how J-Pop lyrics transform emotions through language and imagery.
+이 프로젝트는 tuki.의 「サクラキミワタシ」에서 愛し를 カナシ로 읽는 표현을 접하며 시작되었다.
 
-## Research Topics
+분석을 진행하며 이것이 단순한 읽기 방식의 차이가 아니라 J-Pop 가사 전반에서 나타나는 공통적인 표현 방식이라는 것을 알 수 있었다.
 
-- Love as sadness
-- Closeness as emotional distance
-- Happiness as incompleteness
-- Loss as beauty
+## 연구 주제
 
-## Methods
+- 사랑은 왜 슬픔을 설명하는가
+- 가까움은 왜 닿지 못하는 감정인가
+- 행복이라는 단어는 항상 행복한가
+- J-Pop은 왜 상실을 아름답게 표현하는가
 
-- Lyric analysis
-- Manual emotional scoring
-- Semantic categorization
-- R visualization using `ggplot2`
+## 연구 방법
 
-## Results
+- 가사 수집 및 분석
+- 수작업 감정 점수 부여
+- 감정 유형 분류
+- R을 이용한 시각화
 
-Many lyrics showed relatively high **Surface Positivity** while simultaneously containing strong **Underlying Sadness**.
+## 결과
 
-The analysis suggests that J-Pop speakers often reinterpret difficult emotions through opposite words, symbols, and imagery. This may function as a way of accepting and coping with painful emotions.
+분석 결과 J-Pop 가사에서는 표면적으로는 긍정적인 표현을 사용하지만 실제로는 슬픔을 담고 있는 경우가 많다는 것을 확인할 수 있었다.
 
-## Repository Contents
+이를 통해 사랑, 행복, 상실과 관련된 표현들이 감정 반전이라는 공통적인 특징을 가지고 있다는 것을 확인할 수 있었다.
 
-```text
-report/
-  J-Pop_Semantic_Inversion_Portfolio.pdf
+## 파일 구성
 
-data/
-  J-Pop_semantic_inversion.csv
+- 포트폴리오 PDF
+- R 분석 코드
+- 가사 데이터셋(CSV)
+- 시각화 그래프
 
-R/
-  semantic_inversion_analysis.R
+## 작성자
 
-images/
-  semantic_inversion_plot.png
+임태현
