@@ -20,10 +20,12 @@ Arcana,myuk,28,アルバムで見れば綺麗だった,0.9,0.85,nostalgic_refram
 Arcana,myuk,29~30,綺麗なものと嫌なもの全てを ここに詰め込んだ,0.85,0.75,emotional_coexistence,0.5
 Arcana,myuk,34,終わりは愛しいね,0.85,0.9,affectionate_loss,0.75
 Arcana,myuk,26,死に様にまた憧れた,0.45,0.9,romanticized_death,0.35
+香水(향수),Eito,22,タバコなんかくわえだして,0.4,0.8,nostalgic_reframing,0.55
 香水(향수),Eito,9,別に君を求めてないけど,0.2,0.85,emotional_denial,0.75
 香水(향수),Eito,19,悲しくないよ 悲しくないよ,0.1,0.95,negative_semantic_inversion,0.6
 香水(향수),Eito,35,戻りたいとかは思わないけど,0.25,0.85,emotional_denial,0.8
 香水(향수),Eito,11~12,君のドルチェ＆ガッバーナの その香水のせいだよ,0.75,0.8,sensory_nostalgia,0.9
+香水(향수),Eito,46,僕がふられるんだ,0.05,0.8,hopeless_affection,0.8
 シーソー(시소),tuki.,4,君は重くなって沈むんだ,0.45,0.9,burdensome_affection,0.75
 シーソー(시소),tuki.,17,君が近づいてしまえば,0.7,0.65,unstable_affection,0.8
 シーソー(시소),tuki.,18,またバランスが崩れちゃうんだ,0.3,0.9,emotional_imbalance,0.65
@@ -47,3 +49,8 @@ Arcana,myuk,26,死に様にまた憧れた,0.45,0.9,romanticized_death,0.35
 愛だなんて呼んでみたい",0.85,0.8,love_as_survival,0.9
 アルビレオ(알비레오),Rokudenashi,35,誰より近く恋してた,0.85,0.75,impossible_proximity,1
 アルビレオ(알비레오),Rokudenashi,36,届くわけもないのにさ,0.15,0.95,hopeless_affection,0.95
+花に亡霊,ヨルシカ,21,言葉をもっと教えて さよならだって教えて,0.6,0.9,hopeless_affection,0.95
+花に亡霊,ヨルシカ,15,忘れないように　色褪せないように ,0.8,0.75,persistence_after_loss,0.95
+死別,GUMI,13,君が早く死んでよかったな,0.75,1,romanticized_death,0.95
+死別,GUMI,25,腐り落ちてしまう前にさ,0.05,0.95,beautiful_disappearance,0.8
+死別,GUMI,1,僕らの最後は死別にしよう ,0.2,0.9,romanticized_death,0.9
